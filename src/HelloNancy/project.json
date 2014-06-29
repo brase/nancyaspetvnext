@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+    	"Helios" : "1.0.0-*",
+    	"Microsoft.AspNet.Http": "1.0.0-*",
+    	"Microsoft.AspNet.Server.WebListener": "1.0.0-*",
+    	"Microsoft.AspNet.Owin": "0.1-alpha-*",
+    	"Nancy": "0.24-Pre1394",
+		"Nancy.Owin": "0.24-Pre1394"
+    },
+    "commands": {  
+          "web": "Microsoft.AspNet.Hosting server=Microsoft.AspNet.Server.WebListener server.urls=http://localhost:5001"
+    }
+}
