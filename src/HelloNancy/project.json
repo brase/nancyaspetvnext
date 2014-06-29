@@ -3,7 +3,7 @@
     	"Helios" : "1.0.0-*",
     	"Microsoft.AspNet.Http": "1.0.0-*",
     	"Microsoft.AspNet.Server.WebListener": "1.0.0-*",
-    	"Microsoft.AspNet.Owin": "0.1-alpha-*",
+    	"Microsoft.AspNet.Owin": "1.0.0-*",
     	"Nancy": "0.24-Pre1394",
 		"Nancy.Owin": "0.24-Pre1394"
     },

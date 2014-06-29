@@ -6,7 +6,7 @@ namespace WebApplication3
     {
         public HomeModule()
         {
-            Get["/"] = _ => "Hello World from Nancy in ASP.Net vNext";
+            Get["/"] = _ => "Hello World from Nancy in ASP.Net vNext using OWIN";
         }
     }
 }
